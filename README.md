@@ -80,7 +80,5 @@ Filesystem           Size  Used Avail Use% Mounted on
 LVM management with Ansible
 
 Persistent filesystem mounting
-
 Infrastructure as Code (IaC) practices
-
-Automation of Linux system administration tasks<img width="904" height="732" alt="homelab" src="https://github.com/user-attachments/assets/b021af0b-be9d-4eb0-a1ce-5c6b44507bdb" />
+Automation of Linux system administration tasks
